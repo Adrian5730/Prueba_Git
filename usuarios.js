@@ -1,7 +1,7 @@
 var usuarios = [{
-    nombre: "Hola",
-    edad:0,
+    nombre: "Bernardo Zapata",
+    edad:25,
     id:0,
-    telefono:0,
+    telefono: 5783429,
 
 }]
