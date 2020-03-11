@@ -8,3 +8,10 @@ console.log(saludo(primerUsuario));
 
 //aqui podemos agregar una funcion de agregar a los usuarios para asi poder hacer la factura
 // Agregar un prompt para que el usuario ponga su nombre
+
+function usuarios(Usuario){
+    for (let i = 0; i < array.usuario; i++) {
+        const element = array[i];
+        
+    }
+}
