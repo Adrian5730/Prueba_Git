@@ -1,2 +1,5 @@
 En este archivo describiremos el proceso pedagógico del uso de Git.
 Iremos desarrollando los pasos que se han seguido para lograr un proyecto exitoso.
+
+Primer haremos un git init para iniciar el repositorio
+si ya tenemos un repositorio en git gub es git clone mas la url
