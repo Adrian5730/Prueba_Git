@@ -1,0 +1,2 @@
+En este archivo describiremos el proceso pedagógico del uso de Git.
+Iremos desarrollando los pasos que se han seguido para lograr un proyecto exitoso.
